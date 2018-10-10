@@ -1,0 +1,33 @@
+form:
+ label: quotation
+ tabs:
+  - name: tabMain
+    label: Main
+    fields:
+     - name: category
+       fieldType: select
+       label: Category
+       options:
+          - name: inspire
+            value: inspire
+            selected: true
+          - name: management
+            value: management
+          - name: sports
+            value: sports
+          - name: life
+            value: life
+          - name: funny
+            value: funny
+          - name: love
+            value: love
+          - name: art
+            value: art
+          - name: students
+            value: students
+          
+actions:
+ commit:
+  class: info.magnolia.ui.admincentral.dialog.action.SaveDialogActionDefinition
+ cancel:
+  class: info.magnolia.ui.admincentral.dialog.action.CancelDialogActionDefinition

@@ -1,0 +1,21 @@
+body {
+	background: #405354;
+}
+
+.panel {
+	margin-top: 100px;
+	margin-bottom: 75px;
+}
+
+.panel-primary {
+	border-color: #2d3436;
+}
+
+.panel-heading {
+	border-color: #2d3436 !important;
+	background-color: #2d3436 !important;
+}
+
+.panel-footer {
+	border-color: #2d3436;
+}

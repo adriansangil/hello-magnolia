@@ -1,0 +1,2 @@
+templateScript: /hello-magnolia/templates/components/dummy-component.ftl
+renderType: freemarker

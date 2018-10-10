@@ -1,0 +1,10 @@
+templateScript: /hello-magnolia/templates/pages/dummy-page.ftl
+renderType: freemarker
+visible: true
+dialog: hello-magnolia:pages/dummy-page-properties
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      dummy-component:
+        id: hello-magnolia:components/dummy-component
