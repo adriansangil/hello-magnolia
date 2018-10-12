@@ -21,7 +21,7 @@ Build the jar file using mvn clean install and deploy it in the apache-tomcat/we
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Magnolia](https://www.magnolia-cms.com/) - Dependency Management
+* [Magnolia](https://www.magnolia-cms.com/) - Content Management System
 * [Bootstrap 3](https://getbootstrap.com/docs/3.3/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 
 
